@@ -1,0 +1,22 @@
+{
+  "attribute.tacz_attribute.auto_rpm" : "フルオートRPM",
+  "attribute.tacz_attribute.semi_rpm" : "セミオートマRPM",
+  "attribute.tacz_attribute.base_damage" : "弾丸基礎追加ダメージ",
+  "attribute.tacz_attribute.scale_damage" : "弾丸スケールダメージ",
+  "attribute.tacz_attribute.add_ammo" : "追加マガジン弾数",
+  "attribute.tacz_attribute.scale_ammo" : "スケールマガジン弾数",
+  "attribute.tacz_attribute.base_knockback" : "追加ノックバック",
+  "attribute.tacz_attribute.add_headshot" : "追加ヘッドショットダメージ",
+  "attribute.tacz_attribute.armor_pierce" : "追加防御貫通率",
+  "attribute.tacz_attribute.reload" : "リロード速度",
+  "attribute.tacz_attribute.bullet_speed" : "弾速",
+  "attribute.tacz_attribute.bullet_gravity" : "弾丸重力",
+  "attribute.tacz_attribute.bullet_friction" : "空気抵抗",
+  "attribute.tacz_attribute.gun_weight" : "銃重量",
+  "attribute.tacz_attribute.bullet_life" : "弾丸の消滅時間",
+  "attribute.tacz_attribute.inaccuracy" : "精度",
+  "attribute.tacz_attribute.pitch" : "縦反動",
+  "attribute.tacz_attribute.yaw" : "横反動",
+  "attribute.tacz_attribute.recoil" : "反動",
+  "attribute.tacz_attribute.bullet_life_steel" : "弾丸ライフスティール"
+}
